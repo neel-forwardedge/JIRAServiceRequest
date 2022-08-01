@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "JIRA_URL": "https://gabrielroboblocker.atlassian.net/rest/servicedeskapi/request", 
+    "AUTH_KEY":"support@gabrielapp.com:BdpQP1tSgKKENFw4ArIg736B",
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
